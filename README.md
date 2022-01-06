@@ -1,9 +1,9 @@
 # Serverless Guestbook
 
-This is my capstone project for [https://www.coursera.org/learn/applications-development-microservices-serverless-openshift](IBM) module.
+This is my capstone project for [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift) module.
 
 ## Architecture
-![architecture.png](Guestbook Architecture)
+![Guestbook Architecture](architecture.png)
 
 ## Steps
 - Deployed a serverless backend and a database (Cloudant, NOSQL)
